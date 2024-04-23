@@ -1,6 +1,6 @@
 package com.aluracursos.midesafio.conversor;
 import java.util.Scanner;
-
+//Clase para las monedas
 public class Divisas {
 
     public void convertirDivisa() {

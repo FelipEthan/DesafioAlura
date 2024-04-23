@@ -3,7 +3,7 @@ package com.aluracursos.midesafio.modelos;
 import com.aluracursos.midesafio.conversor.Divisas;
 
 import java.util.Scanner;
-
+//Menu principal
 public class Menu {
 
     public void iniciar() {

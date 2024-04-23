@@ -12,6 +12,7 @@ public class DivisasApi {
     public double get(String cantidadDinero, String deDivisa, String aDivisa) {
         double resultado = 0;
         double cantidad = Double.parseDouble(cantidadDinero);
+        //Clave de API
         String APIKey = "df35f584e83d709ba38e6cd0";
 
         try {
